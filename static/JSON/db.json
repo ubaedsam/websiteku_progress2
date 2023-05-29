@@ -1,0 +1,96 @@
+{
+    "best-products": [{
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Dodol Maknyus",
+        "kategori": "snack",
+        "deskripsi": "Dodol adalah makanan khas bandung",
+        "harga": 10.000,
+        "siap": true,
+        "gambar": "dodol.jpg"
+    }, {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Ice Tea Menggoda",
+        "kategori": "minuman",
+        "deskripsi": "Minuman es teh yang akan menggoda kamu dengan rasanya",
+        "harga": 8.000,
+        "siap": true,
+        "gambar": "tea.jpg"
+    }, {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Burger Babeh Jakarta",
+        "kategori": "makanan",
+        "deskripsi": "Burger yang terenak sejakarta yang tidak ada tandingannya",
+        "harga": 18.000,
+        "siap": true,
+        "gambar": "burger.jpg"
+    }, {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Nastar Ibu Komplek",
+        "kategori": "Kue Kering",
+        "deskripsi": "Kue nastar ibu komplek rasanya bikin kangenin",
+        "harga": 25.000,
+        "siap": true,
+        "gambar": "nastar.jpg"
+    }, {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Kue Pisang Sahabat",
+        "kategori": "Kue Basah",
+        "deskripsi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur fuga quia laudantium provident tenetur quisquam animi, deserunt molestias magni eum?",
+        "harga": 10.000,
+        "siap": true,
+        "gambar": "kuepisang.jpg"
+    }],
+    "products": [{
+        "id": 1,
+        "kode": "K-01",
+        "nama": "Dodol Maknyus",
+        "kategori": "snack",
+        "deskripsi": "Dodol adalah makanan khas bandung",
+        "harga": 10.000,
+        "siap": true,
+        "gambar": "dodol.jpg"
+    }, {
+        "id": 2,
+        "kode": "K-02",
+        "nama": "Ice Tea Menggoda",
+        "kategori": "minuman",
+        "deskripsi": "Minuman es teh yang akan menggoda kamu dengan rasanya",
+        "harga": 8.000,
+        "siap": true,
+        "gambar": "tea.jpg"
+    }, {
+        "id": 3,
+        "kode": "K-03",
+        "nama": "Burger Babeh Jakarta",
+        "kategori": "makanan",
+        "deskripsi": "Burger yang terenak sejakarta yang tidak ada tandingannya",
+        "harga": 18.000,
+        "siap": true,
+        "gambar": "burger.jpg"
+    }, {
+        "id": 4,
+        "kode": "K-04",
+        "nama": "Nastar Ibu Komplek",
+        "kategori": "Kue Kering",
+        "deskripsi": "Kue nastar ibu komplek rasanya bikin kangenin",
+        "harga": 25.000,
+        "siap": true,
+        "gambar": "nastar.jpg"
+    }, {
+        "id": 5,
+        "kode": "K-05",
+        "nama": "Kue Pisang Sahabat",
+        "kategori": "Kue Basah",
+        "deskripsi": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur fuga quia laudantium provident tenetur quisquam animi, deserunt molestias magni eum?",
+        "harga": 10.000,
+        "siap": true,
+        "gambar": "kue pisang.jpg"
+    }],
+    "keranjangs": [],
+    "pesanans": []
+}
